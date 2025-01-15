@@ -1,4 +1,5 @@
-Shashank H K\n
+Shashank H K
+
 CodSoft Internship- Data Science
 Duration: 1st January to 31st January
 1. Titanic Survival Prediction
